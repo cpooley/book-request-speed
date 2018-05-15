@@ -1,1 +1,1 @@
-# book-request-speed
+This data is from book requests at a library. From November 2017 (and is ongoing), I kept note of the date when the books were requested, how many copies of the title, it’s original position in the queue, and measured how quickly it moved through the queue. I obtained this information using an unused, personal account and requested books that I noticed to be popular, where people would ask how long it would take. I kept track of this information with print-outs, and screenshotting the account pages. 
