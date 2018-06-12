@@ -2,7 +2,7 @@
 
 [How long will it take?](https://codepen.io/cpooley/full/oExjba)
 
-*Position in queue + Number of available copies -> Estimated number of weeks*
+*Position in queue + Number of available copies :arrow_forward: Estimated number of weeks*
 
 ## Overview
 
